@@ -15,8 +15,6 @@ gradle-app.setting
 
 .idea
 
-main.kt
-
 lets-plot-images
 
 .ipynb_checkpoints
